@@ -1,0 +1,23 @@
+var L_NUMBER = "L_NUMBER";
+var L_NEWLINE = "L_NEWLINE";
+var L_EMPTY_NEWLINE = "L_EMPTY_NEWLINE";
+var L_ERROR = "L_ERROR";
+var L_SPECIAL = "L_SPECIAL";
+var L_EOF_LEXER = "LEXER HAS STOPPED";
+var L_END_OF_FILE = "EOF";
+
+var L_PLUS = "L_PLUS";
+var L_MINUS = "L_MINUS";
+var L_TIMES = "L_TIMES";
+var L_DIVIDE = "L_DIVIDE";
+var L_MODULAS = "L_MODULAS";
+
+var L_EQ_EQ = "L_EQ_EQ";
+var L_EQ_TO = "L_EQ_TO";
+var L_NOT_EQ = "L_NOT_EQ";
+var L_LESS_EQ = "L_LESS_EQ";
+var L_LESS_THAN = "L_LESS_THAN";
+var L_GREATER_EQ = "L_GREATER_EQ";
+var L_GREATER_THAN = "L_GREATER_THAN";
+
+

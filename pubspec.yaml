@@ -1,0 +1,5 @@
+name: package
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependencies:
+  win32: ^2.1.1
